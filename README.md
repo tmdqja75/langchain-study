@@ -1,2 +1,2 @@
-# langchain-study
-langchain study log
+# Langchain / LLM 공부 기록
+## Langchain / LLM study log
